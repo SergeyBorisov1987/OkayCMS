@@ -1,0 +1,25 @@
+{
+    "name": "okaycms/okay",
+    "description": "OkayCMS",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vitaliy Vladov",
+            "email": "vitaliyvladov@gmail.com"
+        },
+        {
+            "name": "Yanchuk Oleg",
+            "email": "yanchuk.oleg2@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-SimpleXML": "*",
+        "ext-json": "*",
+        "ext-curl": "*",
+        "ext-mbstring": "*",
+        "gregwar/image": "2.*",
+        "smarty/smarty": "3.1.18",
+        "mobiledetect/mobiledetectlib": "^2.8",
+        "phpmailer/phpmailer": "~6.0"
+    }
+}
